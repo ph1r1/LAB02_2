@@ -2,7 +2,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Infomaiton #
+# Informaiton #
 
     Name :  Thiwakon Sakunchao
 
