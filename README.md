@@ -2,6 +2,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
+
 # Heading 1 #
 
     Markup :  # Heading 1 #
@@ -155,3 +156,9 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+=======
+# Informaiton #
+
+    Name :  Thiwakon Sakunchao
+
+    Student ID : 642115020
