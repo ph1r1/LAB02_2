@@ -1,3 +1,4 @@
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -162,3 +163,10 @@ Emoji:
     Name :  Thiwakon Sakunchao
 
     Student ID : 642115020
+=======
+# INFORMATION #
+
+    NAME : PHACHARANAN THUMJAIKUL
+
+    STUDENT ID : 642115026
+
